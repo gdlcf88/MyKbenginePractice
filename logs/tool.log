@@ -1,0 +1,64 @@
+  INFO root [2018-09-03 18:54:23,565] - 
+  INFO root [2018-09-03 18:54:23,566] - -----------------------------------------------------------------------------------------
+
+
+  INFO root [2018-09-03 18:54:23,567] - Resmgr::initialize: KBE_ROOT=C:/Users/gdlcf/Desktop/Projects/kbengine/
+  INFO root [2018-09-03 18:54:23,567] - Resmgr::initialize: KBE_RES_PATH=C:/Users/gdlcf/Desktop/Projects/kbengine/kbe/res/;C:/Users/gdlcf/Desktop/Projects/kbengine/getstarted_assets/;C:/Users/gdlcf/Desktop/Projects/kbengine/getstarted_assets/scripts/;C:/Users/gdlcf/Desktop/Projects/kbengine/getstarted_assets/res/
+  INFO root [2018-09-03 18:54:23,567] - Resmgr::initialize: KBE_BIN_PATH=C:/Users/gdlcf/Desktop/Projects/kbengine/kbe/bin/server/
+  INFO root [2018-09-03 18:54:23,572] - NetworkInterface::initialize(INTERNAL-TCP): bound to all interfaces with default route interface on 172.16.4.126 ( 172.16.4.126:58052 )
+  INFO root [2018-09-03 18:54:23,572] - NetworkInterface::initialize(INTERNAL-TCP): address 172.16.4.126:58052, SOMAXCONN=5.
+  INFO root [2018-09-03 18:54:23,580] - ---- tool Version: 2.2.4. ScriptVersion: 0.1.0. Protocol: 9C1FBCD6B66D4AFE644ABEDBFAC9B95A. Config: Debug X86. Built: 09:17:48 Aug 30 2018. AppID: 0. UID: 7964. PID: 11536 ----
+  INFO root [2018-09-03 18:54:23,580] - Server : Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz with 2097151kB RAM
+  INFO root [2018-09-03 18:54:23,581] - ThreadPool::createThreadPool: creating  threadpool...
+  INFO root [2018-09-03 18:54:23,581] - ThreadPool::createThreadPool: successfully(2), newThreadCount=1, normalMaxThreadCount=2, maxThreadCount=8
+ DEBUG root [2018-09-03 18:54:23,724] - Script::install_py_dlls(): PyInit_pyexpat
+ DEBUG root [2018-09-03 18:54:23,725] - Script::install_py_dlls(): PyInit__socket
+ DEBUG root [2018-09-03 18:54:23,725] - Script::install_py_dlls(): PyInit__ssl
+ DEBUG root [2018-09-03 18:54:23,728] - Script::install_py_dlls(): PyInit__hashlib
+ DEBUG root [2018-09-03 18:54:23,729] - Script::install_py_dlls(): PyInit_select
+ DEBUG root [2018-09-03 18:54:23,729] - Script::install_py_dlls(): PyInit__ctypes
+ DEBUG root [2018-09-03 18:54:23,730] - Script::install_py_dlls(): PyInit__elementtree
+ DEBUG root [2018-09-03 18:54:23,783] - Script::install_py_dlls(): PyInit_unicodedata
+  INFO root [2018-09-03 18:54:23,837] - Script::install(): is successfully, Python=(3.4.2 (default, Aug 30 2018, 09:17:43) [MSC v.1900 32 bit (Intel)])!
+  INFO root [2018-09-03 18:54:23,837] - Script::install(): KBExtra is successfully!
+ DEBUG root [2018-09-03 18:54:24,621] - ClientSDK::writeServerErrorDescrsModule(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins//ServerErrorDescrs.cs
+ DEBUG root [2018-09-03 18:54:24,624] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/ServerErrorDescrs.cs
+ DEBUG root [2018-09-03 18:54:24,635] - ClientSDK::writeEngineMessagesModule(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins//Messages.cs
+ DEBUG root [2018-09-03 18:54:24,646] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/Messages.cs
+ DEBUG root [2018-09-03 18:54:24,658] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/KBETypes.cs
+ DEBUG root [2018-09-03 18:54:24,665] - ClientSDK::writeEntityDefsModule(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins//EntityDef.cs
+ DEBUG root [2018-09-03 18:54:24,672] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/EntityDef.cs
+ DEBUG root [2018-09-03 18:54:24,688] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/CustomDataTypes.cs
+ DEBUG root [2018-09-03 18:54:24,691] - ClientSDK::writeEntityModule(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins//Account
+ DEBUG root [2018-09-03 18:54:24,695] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/AccountBase.cs
+ DEBUG root [2018-09-03 18:54:24,700] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/EntityCallAccountBase.cs
+ DEBUG root [2018-09-03 18:54:24,702] - ClientSDK::writeEntityModule(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins//FirstEntity
+ DEBUG root [2018-09-03 18:54:24,706] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/FirstEntityBase.cs
+ DEBUG root [2018-09-03 18:54:24,712] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/EntityCallFirstEntityBase.cs
+ DEBUG root [2018-09-03 18:54:24,715] - ClientSDK::writeEntityModule(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins//Scene
+ DEBUG root [2018-09-03 18:54:24,718] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/SceneBase.cs
+ DEBUG root [2018-09-03 18:54:24,723] - ClientSDK::saveFile(): C:\Users\gdlcf\Desktop\Projects\kbengine\getstarted_assets\\..\unity3d\Assets\Plugins\kbengine\kbengine_unity3d_plugins/EntityCallSceneBase.cs
+ DEBUG root [2018-09-03 18:54:24,735] - Script::uninstall_py_dlls(): PyInit_pyexpat
+ DEBUG root [2018-09-03 18:54:24,736] - Script::uninstall_py_dlls(): PyInit__socket
+ DEBUG root [2018-09-03 18:54:24,736] - Script::uninstall_py_dlls(): PyInit__ssl
+ DEBUG root [2018-09-03 18:54:24,736] - Script::uninstall_py_dlls(): PyInit__hashlib
+ DEBUG root [2018-09-03 18:54:24,737] - Script::uninstall_py_dlls(): PyInit_select
+ DEBUG root [2018-09-03 18:54:24,737] - Script::uninstall_py_dlls(): PyInit__ctypes
+ DEBUG root [2018-09-03 18:54:24,737] - Script::uninstall_py_dlls(): PyInit__elementtree
+ DEBUG root [2018-09-03 18:54:24,737] - Script::uninstall_py_dlls(): PyInit_unicodedata
+  INFO root [2018-09-03 18:54:24,756] - Script::uninstall(): is successfully!
+ DEBUG root [2018-09-03 18:54:24,756] - ThreadPool::destroy(): starting size 2.
+  WARN root [2018-09-03 18:54:25,057] - ThreadPool::destroy(): waiting for thread(2)[0x968f10,0x968d70,], try=1
+ DEBUG root [2018-09-03 18:54:25,459] - TPThread::~TPThread(): 0x968f10
+ DEBUG root [2018-09-03 18:54:25,459] - TPThread::~TPThread(): 0x968d70
+ DEBUG root [2018-09-03 18:54:25,460] - ThreadPool::destroy(): successfully!
+ DEBUG root [2018-09-03 18:54:25,482] - Bundle::destroyObjPool(): size 13.
+ DEBUG root [2018-09-03 18:54:25,483] - Channel::destroyObjPool(): size 0.
+ DEBUG root [2018-09-03 18:54:25,483] - TCPPacket::destroyObjPool(): size 0.
+ DEBUG root [2018-09-03 18:54:25,483] - UDPPacket::destroyObjPool(): size 0.
+ DEBUG root [2018-09-03 18:54:25,484] - EndPoint::destroyObjPool(): size 0.
+ DEBUG root [2018-09-03 18:54:25,484] - Address::destroyObjPool(): size 0.
+ DEBUG root [2018-09-03 18:54:25,484] - TCPPacketReceiver::destroyObjPool(): size 0.
+ DEBUG root [2018-09-03 18:54:25,484] - UDPPacketReceiver::destroyObjPool(): size 0.
+  INFO root [2018-09-03 18:54:25,484] - tool(0) has shut down. ClientSDK=1
+  INFO root [2018-09-03 18:54:26,489] - EventDispatcher()::~EventDispatcher: Num timers = 2
